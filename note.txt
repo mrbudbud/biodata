@@ -1,0 +1,12 @@
+Register => "DONE
+
+Login => "Done"
+
+Upload => "Done"
+
+Serch => "Done"
+
+Cookie => "Done"
+
+Terimakasih sudah menggunakan jasa " CV BUD "...
+
